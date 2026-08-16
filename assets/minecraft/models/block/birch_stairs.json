@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_stairs",
+  "textures": {
+    "bottom": "minecraft:block/birch_planks",
+    "side": "minecraft:block/birch_planks",
+    "top": "minecraft:block/birch_planks",
+    "mlayer": "minecraft:block/stripped_birch_log_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_leaves",
+  "textures": {
+    "all": "minecraft:block/cherry_leaves",
+	"mlayer": "minecraft:block/pink_concrete"
+  }
+}

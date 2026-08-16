@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/packed_mud",
+    "mlayer": "minecraft:block/terracotta"
+  }
+}

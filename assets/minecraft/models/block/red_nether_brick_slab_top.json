@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/red_nether_bricks",
+    "side": "minecraft:block/red_nether_bricks",
+    "top": "minecraft:block/red_nether_bricks",
+	"mlayer": "minecraft:block/layer/layer_dark2_red"
+  }
+}

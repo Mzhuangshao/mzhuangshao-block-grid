@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all_32x",
+  "textures": {
+    "all": "minecraft:block/amethyst_block",
+    "mlayer": "minecraft:block/blue_concrete"
+  }
+}

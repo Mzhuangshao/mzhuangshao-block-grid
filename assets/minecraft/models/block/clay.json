@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/clay",
+    "mlayer": "minecraft:block/pink_concrete_powder"
+  }
+}

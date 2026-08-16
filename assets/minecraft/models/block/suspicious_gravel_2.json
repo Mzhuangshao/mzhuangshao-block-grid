@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/suspicious_gravel_2",
+    "mlayer": "minecraft:block/red_concrete"
+  }
+}

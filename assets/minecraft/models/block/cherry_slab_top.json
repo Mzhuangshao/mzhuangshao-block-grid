@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/cherry_planks",
+    "side": "minecraft:block/cherry_planks",
+    "top": "minecraft:block/cherry_planks",
+    "mlayer": "minecraft:block/stripped_cherry_log_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/honeycomb_block2",
+    "mlayer": "minecraft:block/yellow_concrete"
+  }
+}

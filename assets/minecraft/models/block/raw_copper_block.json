@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/raw_copper_block",
+    "mlayer": "minecraft:block/gold_block"
+  }
+}

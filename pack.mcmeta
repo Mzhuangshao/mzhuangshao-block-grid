@@ -1,0 +1,12 @@
+﻿{
+  "pack": {
+    "min_format": 16,
+    "max_format": 999,
+    "pack_format": 20,
+    "supported_formats": [
+      16,
+      64
+    ],
+    "description": "百搭放最上 搭配sodium钠食用更佳 \n§6作者M家庄少在B站能找到"
+  }
+}

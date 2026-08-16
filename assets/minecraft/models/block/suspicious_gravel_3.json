@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/suspicious_gravel_3",
+    "mlayer": "minecraft:block/gold_block"
+  }
+}

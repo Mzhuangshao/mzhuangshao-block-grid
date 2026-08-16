@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/glowstone3",
+    "mlayer": "minecraft:block/lime_terracotta"
+  }
+}

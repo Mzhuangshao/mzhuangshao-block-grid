@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_stairs",
+  "textures": {
+    "bottom": "minecraft:block/resin_block",
+    "side": "minecraft:block/resin_block",
+    "top": "minecraft:block/resin_block",
+    "mlayer": "minecraft:block/orange_concrete"
+  }
+}

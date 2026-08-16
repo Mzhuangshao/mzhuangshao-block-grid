@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/prismarine",
+    "side": "minecraft:block/prismarine",
+    "top": "minecraft:block/prismarine",
+	"mlayer": "minecraft:block/layer/prismarine"
+  }
+}

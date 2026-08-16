@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/m_cube_column_horizontal",
+  "textures": {
+    "end": "minecraft:block/creaking_heart_top",
+    "side": "minecraft:block/creaking_heart",
+	"mlayer": "minecraft:block/gold_block"
+  }
+}

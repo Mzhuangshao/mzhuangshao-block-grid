@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/dripstone_block",
+    "mlayer": "minecraft:block/brown_concrete"
+  }
+}

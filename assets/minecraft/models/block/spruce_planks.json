@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/spruce_planks",
+	"mlayer": "minecraft:block/stripped_spruce_log_top"
+  }
+}

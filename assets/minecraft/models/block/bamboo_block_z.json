@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/m_cube_column_uv_locked_z",
+  "textures": {
+    "end": "minecraft:block/bamboo_block_top",
+    "side": "minecraft:block/bamboo_block",
+	"mlayer": "minecraft:block/green_concrete"
+  }
+}

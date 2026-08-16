@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/mossy_stone_bricks",
+    "side": "minecraft:block/mossy_stone_bricks",
+    "top": "minecraft:block/mossy_stone_bricks",
+    "mlayer": "minecraft:block/layer/layer_light_gray"
+  }
+}

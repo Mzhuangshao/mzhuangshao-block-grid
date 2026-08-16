@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/deepslate_emerald_ore3",
+    "mlayer": "minecraft:block/layer/layer_gray"
+  }
+}

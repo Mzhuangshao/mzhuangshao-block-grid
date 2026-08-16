@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/netherrack2",
+    "mlayer": "minecraft:block/layer/netherrack"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/m_cube_column",
+  "textures": {
+    "side": "minecraft:block/chiseled_red_sandstone",
+	"end": "minecraft:block/red_sandstone_top",
+    "mlayer": "minecraft:block/orange_concrete"
+  }
+}

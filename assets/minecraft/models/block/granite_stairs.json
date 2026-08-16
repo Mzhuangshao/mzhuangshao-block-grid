@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_stairs",
+  "textures": {
+    "bottom": "minecraft:block/granite",
+    "side": "minecraft:block/granite",
+    "top": "minecraft:block/granite",
+    "mlayer": "minecraft:block/red_terracotta"
+  }
+}

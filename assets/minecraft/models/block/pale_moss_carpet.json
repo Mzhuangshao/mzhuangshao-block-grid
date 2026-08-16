@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_carpet",
+  "textures": {
+    "wool": "minecraft:block/pale_moss_block",
+    "mlayer": "minecraft:block/gray_terracotta"
+  }
+}

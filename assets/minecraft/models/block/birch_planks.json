@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/birch_planks",
+	"mlayer": "minecraft:block/stripped_birch_log_top"
+  }
+}

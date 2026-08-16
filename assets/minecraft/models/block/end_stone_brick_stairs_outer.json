@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/end_stone_bricks",
+    "side": "minecraft:block/end_stone_bricks",
+    "top": "minecraft:block/end_stone_bricks",
+    "mlayer": "minecraft:block/layer/layer_sand2"
+  }
+}

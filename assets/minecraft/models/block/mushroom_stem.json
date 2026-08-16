@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_template_single_face",
+  "textures": {
+    "texture": "minecraft:block/mushroom_stem",
+    "mlayer": "minecraft:block/layer/layer_sand"
+  }
+}

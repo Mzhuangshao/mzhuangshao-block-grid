@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/cherry_planks",
+	"mlayer": "minecraft:block/stripped_cherry_log_top"
+  }
+}

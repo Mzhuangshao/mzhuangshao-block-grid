@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/resin_block",
+    "mlayer": "minecraft:block/orange_concrete"
+  }
+}

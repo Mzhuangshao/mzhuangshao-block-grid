@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_stairs",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone",
+    "side": "minecraft:block/cobblestone",
+    "top": "minecraft:block/cobblestone",
+    "mlayer": "minecraft:block/layer/layer_gray"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/mushroom_stem",
+    "mlayer": "minecraft:block/layer/layer_sand"
+  }
+}

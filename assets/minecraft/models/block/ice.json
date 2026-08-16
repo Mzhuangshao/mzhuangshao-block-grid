@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all_32x",
+  "textures": {
+    "all": "minecraft:block/ice",
+    "mlayer": "minecraft:block/layer/layer_blue_ice"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/jungle_planks",
+	"mlayer": "minecraft:block/stripped_jungle_log_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/sandstone_bottom",
+    "side": "minecraft:block/sandstone",
+    "top": "minecraft:block/sandstone_top",
+    "mlayer": "minecraft:block/layer/layer_sand"
+  }
+}

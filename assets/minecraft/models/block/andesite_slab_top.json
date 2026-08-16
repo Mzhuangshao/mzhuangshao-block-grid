@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/andesite",
+    "side": "minecraft:block/andesite",
+    "top": "minecraft:block/andesite",
+    "mlayer": "minecraft:block/layer/layer_light2_gray"
+  }
+}

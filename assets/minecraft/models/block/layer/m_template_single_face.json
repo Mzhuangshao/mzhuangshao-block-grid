@@ -1,0 +1,57 @@
+{
+	"credit": "Made by M_zhuangshao with Blockbench",
+	"textures": {
+		"mlayer": "block/layer/high_light",
+		"particle": "#texture"
+	},
+	"elements": [
+		{
+			"from": [0.01, 0.01, 0.01],
+			"to": [15.99, 15.99, 0.01],
+			"faces": {
+				"north": {"uv": [0.01, 0.01, 15.99, 15.99], "texture": "#texture", "cullface": "north"}
+			}
+		},
+		{
+			"from": [1, 15, 0],
+			"to": [15, 16, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 15, 1], "texture": "#mlayer", "cullface": "north"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [1, 16, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [15, 0, 16, 16], "texture": "#mlayer", "cullface": "north"}
+			}
+		},
+		{
+			"from": [15, 0, 0],
+			"to": [16, 16, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#mlayer", "cullface": "north"}
+			}
+		},
+		{
+			"from": [1, 0, 0],
+			"to": [15, 1, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1, 15, 15, 16], "texture": "#mlayer", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1, 2, 3, 4]
+		}
+	]
+}

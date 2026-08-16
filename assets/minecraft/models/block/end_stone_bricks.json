@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/end_stone_bricks",
+    "mlayer": "minecraft:block/layer/layer_sand2"
+  }
+}

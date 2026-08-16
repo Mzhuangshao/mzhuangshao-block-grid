@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/prismarine",
+    "mlayer": "minecraft:block/layer/prismarine"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/pale_oak_planks",
+    "side": "minecraft:block/pale_oak_planks",
+    "top": "minecraft:block/pale_oak_planks",
+    "mlayer": "minecraft:block/stripped_pale_oak_log_top"
+  }
+}

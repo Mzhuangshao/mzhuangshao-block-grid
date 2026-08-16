@@ -1,0 +1,7 @@
+{
+    "parent": "block/m_cube_all",
+    "textures": {
+        "all": "block/cracked_deepslate_bricks3",
+		"mlayer": "minecraft:block/layer/layer_dark_gray"
+    }
+}

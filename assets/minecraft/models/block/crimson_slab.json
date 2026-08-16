@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab",
+  "textures": {
+    "bottom": "minecraft:block/crimson_planks",
+    "side": "minecraft:block/crimson_planks",
+    "top": "minecraft:block/crimson_planks",
+    "mlayer": "minecraft:block/layer/layer_crimson"
+  }
+}

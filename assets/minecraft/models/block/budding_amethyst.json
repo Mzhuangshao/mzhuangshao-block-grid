@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/budding_amethyst",
+    "mlayer": "minecraft:block/gold_block"
+  }
+}

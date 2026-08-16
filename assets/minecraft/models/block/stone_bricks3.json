@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/stone_bricks3",
+    "mlayer": "minecraft:block/layer/layer_light_gray"
+  }
+}

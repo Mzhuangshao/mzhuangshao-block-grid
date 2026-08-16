@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_stairs",
+  "textures": {
+    "bottom": "minecraft:block/mangrove_planks",
+    "side": "minecraft:block/mangrove_planks",
+    "top": "minecraft:block/mangrove_planks",
+    "mlayer": "minecraft:block/stripped_mangrove_log_top"
+  }
+}

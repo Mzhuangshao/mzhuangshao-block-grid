@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_stairs",
+  "textures": {
+    "bottom": "minecraft:block/cinnabar",
+    "side": "minecraft:block/cinnabar",
+    "top": "minecraft:block/cinnabar",
+    "mlayer": "minecraft:block/red_concrete"
+  }
+}

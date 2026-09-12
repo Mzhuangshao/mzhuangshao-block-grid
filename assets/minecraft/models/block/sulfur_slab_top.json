@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab_top",
+  "textures": {
+    "bottom": "minecraft:block/sulfur",
+    "side": "minecraft:block/sulfur",
+    "top": "minecraft:block/sulfur",
+    "mlayer": "minecraft:block/yellow_concrete"
+  }
+}

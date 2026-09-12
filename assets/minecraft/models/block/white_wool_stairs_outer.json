@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/white_wool",
+    "side": "minecraft:block/white_wool",
+    "top": "minecraft:block/white_wool",
+    "mlayer": "minecraft:block/white_concrete"
+  }
+}

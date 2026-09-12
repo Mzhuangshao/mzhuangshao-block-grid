@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/m_slab",
+  "textures": {
+    "bottom": "minecraft:block/poplar_planks",
+    "side": "minecraft:block/poplar_planks",
+    "top": "minecraft:block/poplar_planks",
+    "mlayer": "minecraft:block/stripped_poplar_log_top"
+  }
+}

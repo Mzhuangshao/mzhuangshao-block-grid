@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_leaves",
+  "textures": {
+    "all": "minecraft:block/yellow_poplar_leaves",
+	"mlayer": "minecraft:block/yellow_concrete"
+  }
+}

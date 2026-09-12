@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/m_cube_all",
+  "textures": {
+    "all": "minecraft:block/sulfur_bricks",
+    "mlayer": "minecraft:block/yellow_concrete"
+  }
+}
